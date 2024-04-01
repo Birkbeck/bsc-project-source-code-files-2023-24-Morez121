@@ -31,7 +31,6 @@ The ISCX NSL-KDD dataset 2009 is used for training and testing the machine learn
 - Neural Network (LSTM)
 - XGBoost (XGB)
 
-
 ## Results
 The evaluation results, including accuracy, AUC, precision, recall, and F1-score, are stored in the results directory. The best-performing model is highlighted, and the results are visualized using charts and graphs.
 
